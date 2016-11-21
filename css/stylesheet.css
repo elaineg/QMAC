@@ -15,7 +15,7 @@ body {
   background-color: white;
  }
 
- @media screen and (max-width: 1080px) {
+ @media screen and (max-width: 1123px) {
    .overlay {
      visibility: visible;
    }
