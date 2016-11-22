@@ -16,7 +16,7 @@ body {
   background-color: white;
  }
 
- @media screen and (max-width: 1123px) {
+ @media screen and (max-width: 1130px) {
    .overlay {
      visibility: visible;
    }
@@ -81,7 +81,7 @@ h1 {
 #number3:hover,
 #number5:hover {
     background-color: orange;
-    transition-duration: 1s;
+    transition-duration: 0.5s;
 }
 
 #number2:hover h1,
